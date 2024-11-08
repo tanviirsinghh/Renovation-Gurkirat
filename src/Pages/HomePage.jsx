@@ -13,13 +13,13 @@ const HomePage = () => {
     }, []);
     return (
         <>
-            {/* <Navbar />
+             <Navbar />
             <Home />
             <About />
             <Services />
-            <Gallery /> */}
+            <Gallery /> 
             <Testimonials />
-            {/* <Footer />  */}
+             <Footer />  
         </>
     );
 }
